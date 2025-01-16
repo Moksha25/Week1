@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//create a class name odd even array used to display the even and odd bumbers entered by the user.
+//create a class name odd even array used to display the even and odd numbers entered by the user.
 public class OddEvenArrays 
 {
     public static void main(String[] args) 

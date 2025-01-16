@@ -12,7 +12,8 @@ public class FactorsArray
         int number = sc.nextInt();
 
         // Check if input is negative
-        if (number <= 0) {
+        if (number <= 0) 
+        {
             System.out.println("Error: Please enter a positive integer.");
             return;
         }
